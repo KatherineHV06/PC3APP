@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SilliconValley")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+165076589f2b4af63e5691d43d3eb71d5e519ea4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f52d1074edfcab9d3cf934fc5490691238f0bbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SilliconValley")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SilliconValley")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
